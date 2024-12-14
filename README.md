@@ -39,4 +39,3 @@ Before starting, ensure you have the following installed:
 Clone this repository to your local machine:
 ```bash
 git clone https://github.com/alihuseynaliyev/api-rate-limiter.git
-cd api-rate-limiter
